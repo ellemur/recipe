@@ -4,4 +4,8 @@
 - 100g mushrooms
 - parsley leaves
 
+
 # Instructions:
+- Heat the olive oil in a frying pan
+- Tip in the mushrooms
+...
